@@ -1,0 +1,6 @@
+{
+  "name": "Vibe Wrapped",
+  "description": "Spotify-Wrapped Style Analyzer. Dynamic music DNA, listening archetypes, mood spectrums, personal mock or real login data, with dynamic Gemini AI taste roasts and social-media share exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
